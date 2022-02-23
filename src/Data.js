@@ -1,7 +1,7 @@
 const warTeamList = [
     { 
         name: "Erza Scarlet", 
-        email: "titaniaBkade@fairytail.net", 
+        email: "titaniaBlade@fairytail.net", 
         role: "Saber" 
     },
     {
